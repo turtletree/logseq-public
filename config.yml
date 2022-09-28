@@ -1,6 +1,6 @@
-baseURL: https://example.com/
+baseURL: https://turtletree.github.io/test-publish-logseq
 languageCode: en-us
-title: Author Name
+title: Vickie L
 theme: "PaperMod"
 
 params:
@@ -20,7 +20,7 @@ params:
         - name: "rss"
           url: "https://aryansawhney.com/index.xml"
     ShowReadingTime: true
-    author: "One Nice Person"
+    author: "Vickie L."
 
 outputs:
     home:
